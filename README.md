@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### ¡Hola! 👋  
-##### Mi nombre es Raul y soy desarrollador full stack, me considero una persona curiosa, a la que le gusta investigar por sus propios medios, un eterno estudiante autodidacta con una sed insaciable de conocimiento. Siempre dispuesto a poner a prueba los conocimientos que adquiero.  
+# ¡Hola! 👋  
+#### Mi nombre es Raul y soy desarrollador full stack, me considero una persona curiosa, a la que le gusta investigar por sus propios medios, un eterno estudiante autodidacta con una sed insaciable de conocimiento. Siempre dispuesto a poner a prueba los conocimientos que adquiero.  
   
 
-- ##### 👩🏻‍🏫  Creo firmemente que todos tenemos algo que agregar al equipo que nos hace únicos.  
+- #### 👩🏻‍🏫  Creo firmemente que todos tenemos algo que agregar al equipo que nos hace únicos.  
   
 
-- ##### 💥Mejorar las habilidades que poseo es uno de mis objetivos.  
+- #### 💥Mejorar las habilidades que poseo es uno de mis objetivos.  
   
 
 <br/>  
@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 
 <br/>  
 
-<details><summary> Tecnologias </summary>
+## Tecnologias:  
+
 
 ### Frontend:  
 <div align="center">  
@@ -79,15 +80,19 @@ Here are some ideas to get you started:
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-</div></details>  
+</div>  
 
 <br/>  
+<br/>  
 
-<details><summary> Estadísticas: </summary><div align="center"><img src="https://github-readme-stats.vercel.app/api?username=raul96960&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!--
+## Estadísticas:  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=raul96960&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul96960&hide_border=true&layout=compact" align="center" /></div></details>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raul96960&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
+-->
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=raul96960&&style=flat-square" align="center" />
